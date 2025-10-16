@@ -22,6 +22,8 @@ cd reservas-laravel
 --composer install
 
 ### Configurar el entorno local 
+copy .env.example .env
+
 Edita el archivo .env con los datos locales
 
 DB_CONNECTION=mysql
