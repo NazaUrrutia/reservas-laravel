@@ -50,3 +50,6 @@ http://localhost:8000/reservations
 
 Autor: Nazarena Urrutia
 Desarrolladora Full Stack 
+=======
+# reservas-laravel
+>>>>>>> 55c08182908a0cdf5a02e3698c0d7bdd3572cd00
