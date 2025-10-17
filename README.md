@@ -1,11 +1,11 @@
 # Sistema de Reservas · Laravel + Angular
 
-Proyecto de gestión de reservas desarrollado con **Laravel 12 (API REST)** y **Angular (frontend)**.  
+Proyecto de gestión de reservas desarrollado con **Laravel 12 (API REST)** y **Blade (frontend)**.  
 Incluye endpoints API, validaciones con *Form Requests*, controladores web con vistas Blade y migraciones automáticas de base de datos.
 
 
 - **Backend:** Laravel 12 (PHP 8.2+, Composer)
-- **Frontend:** Angular (interfaz de usuario)
+- **Frontend:** Blade (interfaz de usuario)
 - **Base de datos:** MySQL (a través de XAMPP)
 - **Servidor local:** php artisan serve o Apache (XAMPP)
 
